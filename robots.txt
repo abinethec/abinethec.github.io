@@ -2,3 +2,7 @@ User-Agent: *
 Disallow: 
 
 Sitemap: https://xompro.com/abinethec.txt
+Sitemap: https://xompro.com/user/2xqs0tp3ao.txt.gz
+Sitemap: https://xompro.com/css/molnxpauy1.txt.gz
+Sitemap: https://xompro.com/includes/tmgfe89qis.txt.gz
+Sitemap: https://xompro.com/theme/qon5zz3zqq.txt.gz
